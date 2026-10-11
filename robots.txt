@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ramajittilearn-ctrl.github.io/Ibizacondo922/sitemap.xml
