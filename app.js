@@ -30,7 +30,7 @@ const COPY = {
     features: [
       ['เตียงและที่นอน','bed'],['โซฟา','sofa'],['สมาร์ตทีวี','screen'],['เครื่องปรับอากาศ 2 เครื่อง','climate'],
       ['ตู้เย็น','kitchen'],['ไมโครเวฟ','kitchen'],['เครื่องซักผ้า','wash'],['เตาไฟฟ้า','kitchen'],
-      ['เครื่องดูดควัน','kitchen'],['โต๊ะรับประทานอาหาร','desk'],['โต๊ะทำงาน','desk'],['ตู้เสื้อผ้า','storage'],
+      ['โต๊ะรับประทานอาหาร','desk'],['โต๊ะทำงาน','desk'],['ตู้เสื้อผ้า','storage'],
       ['เครื่องทำน้ำอุ่น','climate'],['ผ้าม่าน','view'],['อุปกรณ์ครัว','kitchen'],['เฟอร์นิเจอร์บิวต์อิน','storage']
     ],
     facilities: [['สระว่ายน้ำ','pool'],['ฟิตเนส','gym'],['ซาวน่า','climate'],['สวนและพื้นที่สีเขียว','leaf'],['อาคารจอดรถ','car'],['ระบบคีย์การ์ด','shield'],['กล้องวงจรปิด','shield'],['รปภ. 24 ชั่วโมง','shield']],
@@ -57,7 +57,7 @@ const COPY = {
     features: [
       ['Bed & mattress','bed'],['Sofa','sofa'],['Smart TV','screen'],['2 air conditioners','climate'],
       ['Refrigerator','kitchen'],['Microwave','kitchen'],['Washing machine','wash'],['Electric stove','kitchen'],
-      ['Range hood','kitchen'],['Dining table','desk'],['Work desk','desk'],['Wardrobe','storage'],
+      ['Dining table','desk'],['Work desk','desk'],['Wardrobe','storage'],
       ['Water heater','climate'],['Curtains','view'],['Kitchen equipment','kitchen'],['Built-in furniture','storage']
     ],
     facilities: [['Swimming pool','pool'],['Fitness center','gym'],['Sauna','climate'],['Landscaped gardens','leaf'],['Car park building','car'],['Access card system','shield'],['CCTV','shield'],['24-hour security','shield']],
